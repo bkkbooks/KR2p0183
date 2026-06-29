@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三凡心有志也亡舉不獨行猶口之不可獨言也牛生而長鴈生而伸其性使然人而學或使之也
+  hash: sha256:8d6e72ad0bae5be083c7e1975f618d9dd2b23897b848fb8a6a1d48f700d7a9f5
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_003-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:a1147021bc7e09d34380a9d5bd8067a08e2ce1389c3bf79769f21b6990593f1b

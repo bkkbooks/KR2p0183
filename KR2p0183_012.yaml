@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十二凡憂思而後悲凡樂思而後欣凡思之用心為甚歎思之方也其聲變則心從之矣其心變則其聲亦然吟遊哀也噪遊樂也啾遊聲也粗遊心也
+  hash: sha256:d410231a7e2334e878a8a5a9d32b2e74d4a95d008f7c8f50310806c51909d364
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_012-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:22daf24ae77602b1d9c7b29b13e492a2e62301d83c67737305d4c4449fbe12f0

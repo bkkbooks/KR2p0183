@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十九凡學者求其心有偽也弗得之矣人之不能以偽也可知也不過直舉其心必在焉察其見者情焉失哉詘義之方也義敬之方也敬物之則也篤仁之方也仁性之方也性或生之忠信之方也信情之方也情出於性愛類七唯性愛為近仁知類五唯義道為近忠惡類三惡不仁為近義所為道者四唯人道為可道也
+  hash: sha256:a5b1aa99c5d537a3ed725247dbe027d32ec2e75d3cc3f36022f7dcd02cfb3b31
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_019-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:3c00a5278ac1ffadb335973ba95c5a039b92a0219fbd92a8e0b6bf3d6e25ca10

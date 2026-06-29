@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九凡聲其出於情也信然後其入撥人之心也夠聞笑聲則馨如也斯喜聞歌謠則陶如也斯奮聽琴瑟之聲則悸如也斯戁觀賚武則齊如也斯作觀韶夏則勉如也斯斂永思而動心葨如也斯嘆其居節也舊其反善復始也慎其出入也順治其德也鄭衛之樂非其聽而從之也
+  hash: sha256:1b513cec4111ddde6a075935d0572e1b86275902ec76326536dfcc3ce4d9fe8f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_009-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:f0664755772726e75eec43ac311a8d8355053ce1a5cbd78b0463633d8468cd17

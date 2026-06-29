@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十一凡人偽為可惡也偽斯吝矣吝斯慮矣慮斯莫與之結慎慮之方也然而其過不惡速謀之方也有過則咎人不慎斯有過信矣
+  hash: sha256:61b94b31139442cff200213970695a828f0772c474ae9403ddb607bb254873b6
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_021-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:4ee884ac5429acdcfabf5aa1d8a516d1d5f39bcbede1b8d4f56c1b243406eea5

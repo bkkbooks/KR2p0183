@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八凡道心為主道四術也唯人道為可道也其三術者道之而已詩書禮樂其始出也皆生於人詩有為為之也書有為言之也禮樂有為舉之也聖人比其類而論會之觀其先後而逆順之體其義而節文之理其情而出入之然後復以教教所以生德於中者也禮作於情或興之也當事因方而制之其先後之序則宜道也又序為之節則文也至容貌所以取節也君子美其情貴其義善其節好其容樂其道悅其教是以敬焉拜所以其敏也幣帛所以為信與徵也其治義道也笑禮之薄澤也樂喜之深澤也
+  hash: sha256:55d6026d8f48d75c8ca3f6a46f7f8f27a22b63eb8fa907ab10a0b5e8902a34b9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_008-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:5f09732c3dce05fd2e17c2d21ab544da971f774a3304c5b651d58f05449d6fa7

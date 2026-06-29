@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十四凡身欲靜而毋動用心欲德而毋僞慮欲淵而毋異退欲肅而毋輕進欲隨而有禮言欲直而毋流居處欲逸蕩而毋縵君子執志必有夫柱柱之心出言必有夫柬柬之信賓客之禮必有夫齊齊之容祭祀之禮必有夫臍臍之敬居喪必有夫纍纍之哀
+  hash: sha256:241925faffcc73194ba6135cc2cf9fea950d0c0faf3950194af3f13b231339a0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_014-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:6bc68c4ed8bda7b192967d7be2df8ad14ebdae6e66ccd665f202924547918a51

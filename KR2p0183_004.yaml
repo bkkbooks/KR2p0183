@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0183/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四凡物無不異也者剛之樹也剛取之也柔之約也柔取之也四海之內其性一也其用心各異教使然也
+  hash: sha256:0caeb3e7e0151804a38cbf880a3ab8b789cc8361ea0c7e11687d0e33d73a838a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_004-1a.1-h}
+metadata:
+  title: 性情論
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0183.xml
+hash: sha256:c1ab38446a480fcdc8fa2cfacc1bc4d5525b7c161c8288de6d63c215032eb23f

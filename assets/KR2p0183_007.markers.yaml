@@ -1,0 +1,32 @@
+canonical_identifier: bkk:krp/KR2p0183/bkk/v1/markers/7
+seq: 7
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 1, content: '', id: KR2p0183_CHANT_007-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 1, content: '', id: KR2p0183_CHANT_007-1a.1}
+  - {type: 'tls:seg', offset: 1, content: '', id: KR2p0183_CHANT_007-1a.2}
+  - {type: punctuation, offset: 7, content: ，, id: KR2p0183_CHANT_007-bkkpn1}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR2p0183_CHANT_007-1a.3}
+  - {type: punctuation, offset: 14, content: ，, id: KR2p0183_CHANT_007-bkkpn2}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR2p0183_CHANT_007-1a.4}
+  - {type: punctuation, offset: 21, content: ，, id: KR2p0183_CHANT_007-bkkpn3}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR2p0183_CHANT_007-1a.5}
+  - {type: punctuation, offset: 28, content: 。, id: KR2p0183_CHANT_007-bkkpn4}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR2p0183_CHANT_007-1a.6}
+  - {type: punctuation, offset: 31, content: ，, id: KR2p0183_CHANT_007-bkkpn5}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR2p0183_CHANT_007-1a.7}
+  - {type: substitution, offset: 31, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 36, content: 。, id: KR2p0183_CHANT_007-bkkpn6}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR2p0183_CHANT_007-1a.8}
+  - {type: punctuation, offset: 39, content: ，, id: KR2p0183_CHANT_007-bkkpn7}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR2p0183_CHANT_007-1a.9}
+  - {type: punctuation, offset: 45, content: 。, id: KR2p0183_CHANT_007-bkkpn8}
+  - {type: 'tls:seg', offset: 45, content: '', id: KR2p0183_CHANT_007-1a.10}
+  - {type: punctuation, offset: 48, content: ，, id: KR2p0183_CHANT_007-bkkpn9}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2p0183_CHANT_007-1a.11}
+  - {type: substitution, offset: 48, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 52, content: 。, id: KR2p0183_CHANT_007-bkkpn10}
+  - {type: xml-element, offset: 52, content: '', id: KR2p0183_CHANT_007-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:4853fb421ec894f3f3c38c3e1e697ea751370738cab4f5dd4f88959b1400e81f
