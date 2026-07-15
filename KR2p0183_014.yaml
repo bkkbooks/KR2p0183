@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 十四凡身欲靜而毋動用心欲德而毋偽慮欲淵而毋異退欲肅而毋輕進欲隨而有禮言欲直而毋流居處欲逸蕩而毋縵君子執志必有夫柱柱之心出言必有夫柬柬之信賓客之禮必有夫齊齊之容祭祀之禮必有夫臍臍之敬居喪必有夫累累之哀
-  hash: sha256:47b395e54e803a1bb0fb2f1c12bf9a6834dca1c984450deb8d534a5535e5c91a
+  text: 十四凡身欲靜而毋動用心欲德而毋偽慮欲淵而毋異退欲肅而毋輕進欲隨而有禮言欲直而毋流居處欲逸蕩而毋縵君子執志必有夫柱柱之心出言必有夫柬柬之信賓客之禮必有夫齊齊之容祭祀之禮必有夫臍臍之敬居喪必有夫纍纍之哀
+  hash: sha256:beb089518a48f6042440adc4888e1757162c20aaae94e7d83303d944070c6c38
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0183_CHANT_014-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0183.xml
-hash: sha256:60d149485e099051129839f0411fc539e083e073888359a42f939006704ceedc
+hash: sha256:0ca689b5113ab1a47fb549abc8bbbf4fb57ec888ab49e576180e78387cad1613
